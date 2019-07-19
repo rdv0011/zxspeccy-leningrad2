@@ -12,6 +12,9 @@
 ## Main board with CPU
 <img src="main-board-cpu.jpeg?sanitize=true&raw=true" />
 
+## Main board closer look
+<img src="main-pcb.jpeg?sanitize=true&raw=true" />
+
 ## Power supply closer view
 <img src="power-supply.jpeg?sanitize=true&raw=true" />
 
