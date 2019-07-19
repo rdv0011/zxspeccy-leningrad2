@@ -17,3 +17,6 @@
 
 ## Sound system closer view
 <img src="sound-system.jpeg?sanitize=true&raw=true" />
+
+## Tape recorder to load/save software
+<img src="tape-recorder.jpeg?sanitize=true&raw=true" />
