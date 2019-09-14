@@ -1,10 +1,11 @@
 # zxspeccy-leningrad2
 
-## My first program I have modified for ZX Spectrum
+## First program I have modified for ZX Spectrum
   It was a text game - Dictator created by dktroniks: http://zxspectrum.online/zxcover/dictator.jpg. To simplify the game I have created trivial operations with the account to make additional money. To get to the additional screen with the account operations press the button "B" while staying in the main menu which is shown on screenshot:
- <img src="dictator-main-screen.png?sanitize=true&raw=true" />
  <img src="dictator-initial-screen.png?sanitize=true&raw=true" />
-
+ <img src="dictator-main-screen.png?sanitize=true&raw=true" />
+ <img src="dictator-account-screen.png?sanitize=true&raw=true" />
+ The modified game itself can be found in this repo: Dictator-mod-by-RDmitry.tzx. To play it try one of the great online emulator like the following: http://jsspeccy.zxdemo.org
 ## Front view of the case
 <img src="front.jpeg?sanitize=true&raw=true" />
 
