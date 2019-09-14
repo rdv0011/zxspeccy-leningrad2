@@ -1,5 +1,10 @@
 # zxspeccy-leningrad2
 
+## My first program I have modified for ZX Spectrum
+  It was a text game - Dictator created by dktroniks: http://zxspectrum.online/zxcover/dictator.jpg. To simplify the game I have created trivial operations with the account to make additional money. To get to the additional screen with the account operations press the button "B" while staying in the main menu which is shown on screenshot:
+ <img src="dictator-main-screen.png?sanitize=true&raw=true" />
+ <img src="dictator-initial-screen.png?sanitize=true&raw=true" />
+
 ## Front view of the case
 <img src="front.jpeg?sanitize=true&raw=true" />
 
